@@ -50,4 +50,6 @@ References
     ,J., & Sanders, H. (2018). Malware Data Science: Attack Detection and Attribution. No Starch Press.
     “Go from Data to Insight to Action with Power BI Desktop.” What Is Power BI | Microsoft Power BI, powerbi.microsoft.com/en-us/desktop/.
     , A. (2018). Windows Security Monitoring: Scenarios and Patterns. John Wiley & Sons, Inc.
+    
+    https://hello.global.ntt/en-us/insights/blog/log-analysis-an-effective-methodology
 
