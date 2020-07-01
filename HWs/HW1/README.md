@@ -38,18 +38,14 @@ Below is a summary of steps the analyst should take for effective and efficient 
     Select the appropriate data types for each field or column. Some data types are searched faster than others.
     Use optimize filtering function techniques for conducting pattern searches (e.g., Regex, CIDR notation).
     
-    3. While the figure presents the categories in univariate format and can be analysed individually, multivariate analysis can also be performed, as identified in line item 16 by combining 2 or more categories together. Figure 4 presents a simple multivariate comparison using the Temporal Analysis and Size Analysis categories. Whereas Figure 5, presents a more complex multivariate comparison using Source Linkage (client IP addresses) and Destination Linkage (email domains) categories.
+    3. While the figure presents the categories in univariate format and can be analysed individually, 
+   multivariate analysis can also be performed, as identified in line item 16 by combining 2 or more categories together. 
+   Figure 4 presents a simple multivariate comparison using the Temporal Analysis and Size Analysis categories. 
+   Whereas Figure 5, presents a more complex multivariate comparison using Source Linkage (client IP addresses) and Destination Linkage (email domains) categories.
     
     Summary
 
 In summary, this blog post presents a log analysis methodology. While this article represents an effective log methodology, the ability of an analyst to collect, prepare, model, and present log analysis findings is critical for any intrusion investigation. Regardless of log file format, the analyst must be able to analyse log files and draw meaningful conclusions if the data resides within the log files. In addition, if required, the analyst must be able to utilize the log file data to predict future behaviour or attacks using predictive analytics.
 
-References
-
-    , J., & Lakhani, A. (2018). Investigating the Cyber Breach: The Digital Forensics Guide for the Network Engineer. Cisco Press.
-    ,J., & Sanders, H. (2018). Malware Data Science: Attack Detection and Attribution. No Starch Press.
-    “Go from Data to Insight to Action with Power BI Desktop.” What Is Power BI | Microsoft Power BI, powerbi.microsoft.com/en-us/desktop/.
-    , A. (2018). Windows Security Monitoring: Scenarios and Patterns. John Wiley & Sons, Inc.
-    
     https://hello.global.ntt/en-us/insights/blog/log-analysis-an-effective-methodology
 
