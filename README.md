@@ -3,4 +3,4 @@ Edibo projekta elektroniska klada
 
 Mans pirmais ieraksts
 
-Formatešanas piemer github https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+Formatešanas piemer github http[GitHub Pages](https://pages.github.com/)
