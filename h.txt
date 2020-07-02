@@ -1,0 +1,100 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  firefox &
+    5  ping www.rtu.lv
+    6  head -n
+    7  head --help
+    8  /etc$ -n /user
+    9  /etc$ ls | -n 3
+   10  /etc$ ls | head -n 3
+   11  cd /etc
+   12  ls | head -n 3
+   13  /etc$ ls | wc -c
+   14  cd /etc$
+   15  ls Desktop/
+   16  ls | wc -c
+   17  wc --help
+   18  cd
+   19  pwd
+   20  la
+   21  ls
+   22  cd Dektop
+   23  clear
+   24  pwd
+   25  ls
+   26  cd Desktop/
+   27  folder
+   28  ls
+   29  create
+   30  mkdir
+   31  mkdir --help
+   32  mkdir abc
+   33  mkdir ABC
+   34  ls
+   35  mkdir aBc
+   36  mkdir aBC
+   37  mkdir AbC
+   38  LS
+   39  ls
+   40  date
+   41  ls -l
+   42  ls -l ABc
+   43  ls -l aBX
+   44  ls -l aBC
+   45  pwd
+   46  cd
+   47  pwd
+   48  /etcs$
+   49  /etc$
+   50  /cs
+   51  cd
+   52  /etc$
+   53  clear
+   54  /etc$ ls | head
+   55  cd
+   56  history
+   57  java
+   58  java -version
+   59  Python
+   60  Python -version
+   61  python
+   62  pwd
+   63  ls
+   64  a=123
+   65  echo a
+   66  b=nothink
+   67  echo $b
+   68  a="not today"
+   69  echo a
+   70  echo $a
+   71  echo $b a
+   72  echo $b $a
+   73  ecgo $b,date
+   74  date
+   75  d=date|echo $d
+   76  echo 'date'$a
+   77  echo `date` $b
+   78  a=123
+   79  z=44
+   80  echo $a+$z
+   81  echo $a_$z
+   82  echo `$a+$z`
+   83  math
+   84  echo math $a $z
+   85  shell
+   86  sum=$(($a+$z))
+   87  $ echo $sum
+   88  a=123
+   89  z=44
+   90  sum=$(($a+$z))
+   91  echo $sum
+   92  ls
+   93  echo $((a+z)) EUR > a.txt
+   94  lsls
+   95  ls
+   96  ls -l
+   97  ls -l a.txt
+   98  cat a.txt
+   99  head a.txt
+  100  history > h.txt
