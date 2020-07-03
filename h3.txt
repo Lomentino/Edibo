@@ -1,0 +1,81 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  cd ../../
+    5  pwd
+    6  echo $
+    7  echo $user
+    8  echo $USER
+    9  echo $HOME
+   10  cd $HOME
+   11  pwd
+   12  echo $PS1
+   13  $PS1+$
+   14  PS1=$
+   15  PS1=6
+   16  PS1=CVC
+   17  cd $HOME
+   18  pwd
+   19  cd ..
+   20  PS1=*
+   21  whereis pico
+   22  SP1='™ '
+   23  ls -l /usr/bin/
+   24  ls -l /usr/bin/ | wc -l
+   25  ls -l /etc/alternatives/pico
+   26  ls -l /bin/nano
+   27  pwd
+   28  cd.. /home/user/
+   29  cd ..
+   30  cd ../home/user
+   31  pwd
+   32  vim
+   33  vim 01.sh
+   34  ls -l
+   35  ls -l 01.sj
+   36  ls -l 01.sh
+   37  wc 01.sh
+   38  chmod +x 01.sh
+   39  sl -l
+   40  ls -l
+   41  vim .
+   42  vim /
+   43  mc
+   44  pwd
+   45  ./01
+   46  ./01.sh
+   47  vmi
+   48  vim 01.sh
+   49  vmi
+   50  pwd
+   51  vmi
+   52  vmi 01.sh
+   53  vmi
+   54  ls
+   55  vim 01.sh
+   56  ./01.sh
+   57  vim
+   58  vim 01.sh
+   59  ./01.sh
+   60  time ./sh.01
+   61  pwd
+   62  PS1="$ "
+   63  nano
+   64  vim 02.sh
+   65  ,/02.sh
+   66  vim 02.sh
+   67  for i in {0..5}; do echo "$i "; done
+   68  for i in {0..5}: do echo "i*i"; done
+   69  for i in {0..5}; do echo "i*i"; dobne; for i in {0..5}; do echo "$=((i*i))"; done; for i in {0..5}; do echo "$i $((i*i))"; done; for i in {0..5}; do echo "$i $((i*i))"; done
+   70  for i in {0..5}; do echo "$i $((i*i))"; done
+   71  ls -l
+   72  pwd
+   73  cd..
+   74  cd ..
+   75  /pwd
+   76  pwd
+   77  ls -l
+   78  cd ..
+   79  cd ../home/user
+   80  pwd
+   81  history>h3.txt
