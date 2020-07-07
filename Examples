@@ -3,3 +3,11 @@ For version
     $ cat /etc/issue
     Ubuntu 14.04.4 LTS \n \l
 
+To check version of core
+
+
+
+    $ uname -r
+    3.13.0-87-generic
+
+
