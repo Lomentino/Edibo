@@ -3,3 +3,5 @@
 mkdir /home/user/$(date +%M)
 or
 mkdir $(date +%Y%m%d_%H%M%S)
+
+without time mdkri $(date +%Y%m%d)
