@@ -11,3 +11,24 @@ To check version of core
     3.13.0-87-generic
 
 
+n [150]: s = """                                                               
+     ...: Godājamais x
+     ...: Jums ir penācis naudas pārvedums
+     ...: are vertību y EUR
+     ...: Lai saņemtu naudu,atsūtiet
+     ...: īsziņu uz tlf.numuru z
+     ...: 
+     ...: Cieņā,
+     ...:          atraitne
+     ...:   """
+
+n [150]: s = """                                                               
+     ...: Godājamais x
+     ...: Jums ir penācis naudas pārvedums
+     ...: are vertību y EUR
+     ...: Lai saņemtu naudu,atsūtiet
+     ...: īsziņu uz tlf.numuru z
+     ...: 
+     ...: Cieņā,
+     ...:          atraitne
+     ...:   """
