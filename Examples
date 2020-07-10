@@ -22,13 +22,6 @@ n [150]: s = """
      ...:          atraitne
      ...:   """
 
-n [150]: s = """                                                               
-     ...: Godājamais x
-     ...: Jums ir penācis naudas pārvedums
-     ...: are vertību y EUR
-     ...: Lai saņemtu naudu,atsūtiet
-     ...: īsziņu uz tlf.numuru z
-     ...: 
-     ...: Cieņā,
-     ...:          atraitne
-     ...:   """
+
+In [149]: s.replace('x',' Janis').replace('y', ' 567 ').replace(' z', ' 4423141'
+     ...: )
