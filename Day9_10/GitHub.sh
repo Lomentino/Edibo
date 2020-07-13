@@ -4,5 +4,6 @@ then
 	git config --global user.email komar112@inbox.lv
 	git add .
 	git commit -m $1
+        git pull
 	git push origin master
 fi
