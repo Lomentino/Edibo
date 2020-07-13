@@ -34,3 +34,6 @@ xxd -b (binary code)
 whereis
 PATH=$PATH:-
 chmod 740
+
+
+https://github.com/tatusmatrix/EDIBO/tree/master/Day9_Day10
