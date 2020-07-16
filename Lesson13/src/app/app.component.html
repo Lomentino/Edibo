@@ -1,0 +1,16 @@
+<h1 tabindex="" (focus)="increaseImageCount()" contenteditable="">Hello world!</h1>
+
+te bus bildes:
+<button (click)="increaseImageCount()">give me moar!!!</button>
+<button (click)="toggle()">radit vai ari neraaddiit</button>
+
+<div *ngIf="isVisible">
+  <div class="make-it-inline" *ngFor="let image of imageSources">
+    <img [src]="image" alt="Bilde">
+  </div>
+</div>
+
+
+  <!-- <img src="{{imageSources[0]}}" alt="Bilde"> -->
+
+<!-- {{imageSources | json}} -->
