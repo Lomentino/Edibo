@@ -37,3 +37,15 @@ chmod 740
 
 
 https://github.com/tatusmatrix/EDIBO/tree/master/Day9_Day10
+
+
+git clone https://github.com/xnf/edibo-kautkas-cits
+
+npm i -g @angular/cli
+mv edibo-kautkas-cits edibo-kautkas-citsLegacy
+ng new edibo-kautkas-cits
+cd edibo-kautkas-cits
+cp -r ../edibo-kautkas-citsLegacy/* ./
+code .
+
+
