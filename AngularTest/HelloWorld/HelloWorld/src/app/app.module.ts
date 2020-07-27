@@ -6,6 +6,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { BadgeOverviewExample } from './badge-overview/badge-overview-example';
+import { WeatherModule } from './weather/weather..module';
+
 
 @NgModule({
   declarations: [
@@ -17,7 +19,8 @@ import { BadgeOverviewExample } from './badge-overview/badge-overview-example';
     BrowserAnimationsModule,
     MatSliderModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
+    WeatherModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'HelloWorld';
+  hidden = true;
+
+  toggleBadgeVisibility () {
+    console.log('hidden change')
+    this.hidden = !this.hidden
+  }
+
 }
