@@ -1,0 +1,13 @@
+_HiStOrY_V2_
+.help
+.quit
+.open\040test1.db
+.tables
+create\040table\040mana_tabula1(lauks1\040smallint,\040lauks2\040varchar(5));
+.tables
+insert\040into\040mana_tabula\040values\040(1,'abc');
+insert\040into\040mana_tabula1\040values\040(1,'abc');
+insert\040into\040mana_tabula1\040values\040(2,'def');
+.tables
+select\040*\040from\040mana_tabula1;;
+.exit
